@@ -1,2 +1,2 @@
 # index.html
-Catalog electronic edus
+datele tale au fost furate
