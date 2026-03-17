@@ -1,2 +1,2 @@
-# Index.html
+# index.html
 Catalog electronic edus
